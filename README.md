@@ -4,4 +4,13 @@ Circular RNAs (circRNAs) are a unique type of non-coding RNA that differs from l
 
 One of the ways circRNAs regulate cellular processes is by acting as sponges for miRNAs. This suggests that circRNAs could potentially play a role in protecting against viral genetic material. Therefore, performing a circRNA BLAST against all known virus genomes could provide valuable insights for further evaluation or evolutionary studies.
 
-As a result, I have developed a code for high-throughput BLAST analysis of all known circRNAs against all known viruses from same species (here mouse) and visualizing the results.
+Therefore, I have developed a code for high-throughput BLAST analysis of all known circRNAs against all known viruses, and I have also created a solution for the issue of back-splicing that generates new sequences not present in the original DNA. The code takes the first 20 nucleotides from the beginning of input sequences (in a CSV file), reverses them, and adds them to the end of the same sequence to simulate the back-splicing process. The modified sequences are then used to perform a BLAST against all known viruses, creating an in-silico screening that can be used for further analysis.
+
+With a few modifications, this code can be adapted for other high-throughput applications.
+
+I decided to take 20 nt because, I thought it is a good starting point but I do not have a strong opinion about this number and you need to modify it based on your need or assumptions.
+
+
+Ali Rahjouei
+
+Berlin, 20230301
