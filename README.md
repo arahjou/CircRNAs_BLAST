@@ -4,4 +4,4 @@ Circular RNAs (circRNAs) are a unique type of non-coding RNA that differs from l
 
 One of the ways circRNAs regulate cellular processes is by acting as sponges for miRNAs. This suggests that circRNAs could potentially play a role in protecting against viral genetic material. Therefore, performing a circRNA BLAST against all known virus genomes could provide valuable insights for further evaluation or evolutionary studies.
 
-As a result, I have developed a code for high-throughput BLAST analysis of all known circRNAs against all known viruses from same species and visualizing the results.
+As a result, I have developed a code for high-throughput BLAST analysis of all known circRNAs against all known viruses from same species (here mouse) and visualizing the results.
