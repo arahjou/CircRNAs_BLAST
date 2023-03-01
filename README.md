@@ -6,7 +6,7 @@ One of the ways circRNAs regulate cellular processes is by acting as sponges for
 
 Therefore, I have developed a code for high-throughput BLAST analysis of all known circRNAs against all known viruses, and I have also created a solution for the issue of back-splicing that generates new sequences not present in the original DNA. The code takes the first 20 nucleotides from the beginning of input sequences (in a CSV file), reverses them, and adds them to the end of the same sequence to simulate the back-splicing process. The modified sequences are then used to perform a BLAST against all known viruses, creating an in-silico screening that can be used for further analysis.
 
-With a few modifications, this code can be adapted for other high-throughput applications.
+With a few modifications, this code can be adapted for other high-throughput applications. For example, I added one more block to BLAST CircRNAs against mouse-miRNAs.
 
 I decided to take 20 nt because, I thought it is a good starting point but I do not have a strong opinion about this number and you need to modify it based on your need or assumptions.
 
