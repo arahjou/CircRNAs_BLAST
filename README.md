@@ -11,7 +11,7 @@ With a few modifications, this code can be adapted for other high-throughput app
 I decided to take 20 nt because, I thought it is a good starting point but I do not have a strong opinion about this number and you need to modify it based on your need or assumptions.
 
 
-![Alternate image text]()
+![Alternate image text](https://db3pap006files.storage.live.com/y4m2yUumGhnQ5o6SdMHvkjD6vSWOuJPSr6IoEjS2lX7jYgKmm9cgmvWIpoOyXbxZbmCPX0gCJE0OqHZnvl7TxVbmeU3bofo6haHYX9a2Ws-WXX4l8HHWw1cN4BrkwJblP0vF-rTm7RF4bGaKDGu7WUQ3d_qNmrMJQMPoNBymj6kWhkZVnwKDvns0CssO4nhBLKT?width=1771&height=1181&cropmode=none)
 
 
 Ali Rahjouei
